@@ -1,5 +1,4 @@
 import flask
-
 from infrastructure.view_modifiers import response
 #import services.package_service as package_service
 
