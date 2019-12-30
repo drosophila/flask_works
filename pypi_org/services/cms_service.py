@@ -7,7 +7,7 @@ fake_db = {
         "page_details": "Details about the Company History ..."
     },
     "/company/employees":{
-        "page_title": "Out Team",
+        "page_title": "Our Team",
         "page_details": "Details about company employees ..."
     },
 }
